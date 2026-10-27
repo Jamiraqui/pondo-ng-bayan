@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "file": "assets/images/floodwater.webp",
+      "description": "Person walking a bicycle through floodwater",
+      "source": "Image supplied by project owner",
+      "sha256": "001dde7627e6822fceb0c5f5e1839ef2db0e649a996995be1e704d9280b90b6b"
+    },
+    {
+      "file": "assets/images/accountability-demonstration.jpeg",
+      "description": "Public demonstration calling for accountability",
+      "source": "Image supplied by project owner",
+      "sha256": "77492d98c6db621399595bc118a0a5cd9caa6bb1236e03ceaadd7a462e01b4aa"
+    },
+    {
+      "file": "assets/images/community-child.jpeg",
+      "description": "Child holding food in a community setting",
+      "source": "Image supplied by project owner",
+      "sha256": "cb238616208b3a48ed9a76c73e6a59545ed88f8f09a566987c3979848b36c028"
+    },
+    {
+      "file": "assets/images/supplied-budget-graphic.jpeg",
+      "description": "Supplied budget graphic; contextual media only",
+      "source": "Image supplied by project owner",
+      "sha256": "a5b797a4e6cead0984888c989dd5e99dd66063ef8e0c6500b3a23f600e29e46a"
+    }
+  ]
+}
